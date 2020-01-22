@@ -1,5 +1,5 @@
 # setups
 * chrome, spotify, sublime text, intellij, pycharm, virtualbox.
-* github, kubectl, vim, maven
+* github, docker, kubectl, vim, maven
 * HDP, HDF, CDA
 * minikube
